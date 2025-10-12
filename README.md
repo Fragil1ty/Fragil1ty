@@ -1,6 +1,6 @@
 ## Fragil1ty
 
-(https://ibb.co/N2qzJbq0)
+(https://i.ibb.co/23rBCHrz/first-ever-sff-itx-build-ncase-m2-round-stealth-build-v0-a6tgnr32g1he1.jpg)
 
 ## Links
 [build recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
