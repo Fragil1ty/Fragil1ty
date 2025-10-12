@@ -11,13 +11,12 @@ I wont be hand holding, please use example settings (i.e. ram timings) with a gr
 ## Applications
 **GPU:** </br>
 [Furmark](https://geeks3d.com/furmark/downloads/) </br> 
+
 </br> **CPU:** </br>
-[Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [OCCT](https://www.ocbase.com/download) | 
+[Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [OCCT](https://www.ocbase.com/download) | </br>
+
 </br> **RAM:** </br>
-[Zen Timings](https://zentimings.com/) </br>
-[Y-Cruncher](https://github.com/Mysticial/y-cruncher) </br>
-[TM5](https://github.com/CoolCmd/TestMem5) </br>
-[Karhu](https://www.karhusoftware.com/ramtest/#introduction) </br>
+[Zen Timings](https://zentimings.com/) | [Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [TM5](https://github.com/CoolCmd/TestMem5) | [Karhu](https://www.karhusoftware.com/ramtest/#introduction) </br>
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
