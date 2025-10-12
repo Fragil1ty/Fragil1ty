@@ -3,6 +3,7 @@
 I just wanted to create a space where I can localise important tools, i.e. build recommendations, programs to use for overclocking, timings and things of that nature. Just in case it's any use to anyone.
 
 ## Links
+test: https://github.com/Fragil1ty/Fragil1ty/edit/main/README.md
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
