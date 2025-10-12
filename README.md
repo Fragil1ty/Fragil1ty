@@ -1,5 +1,3 @@
-## Fragil1ty
-
 ![header screenshot](https://i.ibb.co/23rBCHrz/first-ever-sff-itx-build-ncase-m2-round-stealth-build-v0-a6tgnr32g1he1.jpg)
 
 ## Links
