@@ -8,10 +8,10 @@
 ## Applications
 **GPU:** </br>
 [Furmark](https://geeks3d.com/furmark/downloads/) </br> 
-**CPU:** </br>
+</br> **CPU:** </br>
 [Y-Cruncher](https://github.com/Mysticial/y-cruncher) </br>
 [OCCT](https://www.ocbase.com/download) </br>
-**RAM:** </br>
+</br> **RAM:** </br>
 [Zen Timings](https://zentimings.com/) </br>
 [Y-Cruncher](https://github.com/Mysticial/y-cruncher) </br>
 [TM5](https://github.com/CoolCmd/TestMem5) </br>
