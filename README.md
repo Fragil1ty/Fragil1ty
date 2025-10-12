@@ -1,5 +1,7 @@
 ## Fragil1ty
 
+I just wanted to create a space where I can localise important tools, i.e. build recommendations, programs to use for overclocking, timings and things of that nature. Just in case it's any use to anyone.
+
 ## Links
 
 <!--
