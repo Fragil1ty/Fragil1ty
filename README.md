@@ -10,7 +10,8 @@
 </br>
 **CPU:**
 </br>
-**RAM:**
+**RAM:** </br>
+[Zen Timings](https://zentimings.com/)
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
