@@ -1,6 +1,6 @@
 ## Fragil1ty
 
-I just wanted to create a space where I can localise important tools, i.e. build recommendations, programs to use for overclocking, timings and things of that nature. Just in case it's any use to anyone.
+Just somewhere for me to put a collection of tools and recommendations for people looking for new parts, overclocking guidance and/or references to tools that may help them with their OC journey.
 
 ## Links
 [build recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
