@@ -1,5 +1,8 @@
 ![header screenshot](https://i.ibb.co/23rBCHrz/first-ever-sff-itx-build-ncase-m2-round-stealth-build-v0-a6tgnr32g1he1.jpg)
 
+I want to use this page to provide people with a reference point for part picking, overclocking tools & timings. </br>
+I wont be hand holding, please use example settings (i.e. ram timings) with a grain of salt and use common sense. These are more of a guide and not a definitive statement on what you should or should not use. </br>
+
 ## Links
 [build recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
 
