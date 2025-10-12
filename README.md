@@ -12,8 +12,7 @@ I wont be hand holding, please use example settings (i.e. ram timings) with a gr
 **GPU:** </br>
 [Furmark](https://geeks3d.com/furmark/downloads/) </br> 
 </br> **CPU:** </br>
-[Y-Cruncher](https://github.com/Mysticial/y-cruncher) </br>
-[OCCT](https://www.ocbase.com/download) </br>
+[Y-Cruncher](https://github.com/Mysticial/y-cruncher) </br> | [OCCT](https://www.ocbase.com/download) </br>
 </br> **RAM:** </br>
 [Zen Timings](https://zentimings.com/) </br>
 [Y-Cruncher](https://github.com/Mysticial/y-cruncher) </br>
