@@ -9,6 +9,7 @@
 **GPU:**
 </br>
 **CPU:**
+[Y-Cruncher](https://github.com/Mysticial/y-cruncher) </br>
 </br>
 **RAM:** </br>
 [Zen Timings](https://zentimings.com/) </br>
