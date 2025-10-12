@@ -1,6 +1,6 @@
 ## Fragil1ty
 
-Just somewhere for me to put a collection of tools and recommendations for people looking for new parts, overclocking guidance and/or references to tools that may help them with their OC journey.
+https://pbs.twimg.com/profile_banners/1806387782929223680/1759464977/1500x500
 
 ## Links
 [build recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
