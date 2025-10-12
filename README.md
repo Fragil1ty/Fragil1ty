@@ -7,7 +7,9 @@
 
 ## Applications
 **GPU:**
+</br>
 **CPU:**
+</br>
 **RAM:**
 
 <!--
