@@ -12,10 +12,10 @@ I wont be hand holding, please use example settings (i.e. ram timings) with a gr
 **GPU:** </br>
 [Furmark](https://geeks3d.com/furmark/downloads/) </br> 
 
-</br> **CPU:** </br>
+**CPU:** </br>
 [Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [OCCT](https://www.ocbase.com/download) | </br>
 
-</br> **RAM:** </br>
+**RAM:** </br>
 [Zen Timings](https://zentimings.com/) | [Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [TM5](https://github.com/CoolCmd/TestMem5) | [Karhu](https://www.karhusoftware.com/ramtest/#introduction) </br>
 
 <!--
