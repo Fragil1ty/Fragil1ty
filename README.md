@@ -3,7 +3,9 @@
 ## Links
 [build recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
 
+## timings
 
+## applications / testing theory
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
