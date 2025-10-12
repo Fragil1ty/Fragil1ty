@@ -1,6 +1,6 @@
 ## Fragil1ty
 
-[img]https://pbs.twimg.com/profile_banners/1806387782929223680/1759464977/1500x500[/img]
+!(https://pbs.twimg.com/profile_banners/1806387782929223680/1759464977/1500x500)
 
 ## Links
 [build recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
