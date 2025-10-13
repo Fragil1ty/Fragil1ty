@@ -8,23 +8,6 @@ I wont be hand holding, please use example settings (i.e. ram timings) with a gr
 
 ## Timings
 
-## Applications
-**GPU:** </br>
-[Furmark](https://geeks3d.com/furmark/downloads/) | [Superposition](https://benchmark.unigine.com/superposition) | [Heaven](https://benchmark.unigine.com/heaven) | [MSI AB](https://www.msi.com/Landing/afterburner/graphics-cards) | [3D Mark](https://www.3dmark.com/)  </br> 
-
-**CPU:** </br>
-[Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [OCCT](https://www.ocbase.com/download) | [Prime-95](https://prime95.net/) | [SMU Debug Tool](https://github.com/irusanov/SMUDebugTool) </br>
-
-**RAM:** </br>
-[Zen Timings](https://zentimings.com/) | [Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [TM5](https://github.com/CoolCmd/TestMem5) | [Karhu](https://www.karhusoftware.com/ramtest/#introduction) </br>
-
-### Testing Methodology
->If you want to know what each of these programs is used for, please use Google. I'm going to list below my testing methodology in regards to GPU, CPU and RAM overclocking. You do not need to use ALL of these programs but they are a good list of programs to use. I just want to infer that SMU Debug is a tool made for AMD specific CPU's so that you're able to change values such as CO offsets without having to go back into your bios.
-
-### GPU Overclocking
-1. The programs that I like to use when GPU overclocking are Superposition for testing scalability, 3D Mark for testing stability and MSI AB to test and adjust overclocking values.
-
-2. When are we looking 
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
