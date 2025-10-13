@@ -10,7 +10,7 @@ I wont be hand holding, please use example settings (i.e. ram timings) with a gr
 
 ## Applications
 **GPU:** </br>
-[Furmark](https://geeks3d.com/furmark/downloads/) </br> 
+[Furmark](https://geeks3d.com/furmark/downloads/) | [Superposition](https://benchmark.unigine.com/superposition) | [Heaven](https://benchmark.unigine.com/heaven) | [MSI AB](https://www.msi.com/Landing/afterburner/graphics-cards) | [3D Mark](https://www.3dmark.com/)  </br> 
 
 **CPU:** </br>
 [Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [OCCT](https://www.ocbase.com/download) | </br>
