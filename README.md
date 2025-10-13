@@ -13,7 +13,7 @@ I wont be hand holding, please use example settings (i.e. ram timings) with a gr
 [Furmark](https://geeks3d.com/furmark/downloads/) | [Superposition](https://benchmark.unigine.com/superposition) | [Heaven](https://benchmark.unigine.com/heaven) | [MSI AB](https://www.msi.com/Landing/afterburner/graphics-cards) | [3D Mark](https://www.3dmark.com/)  </br> 
 
 **CPU:** </br>
-[Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [OCCT](https://www.ocbase.com/download) | </br>
+[Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [OCCT](https://www.ocbase.com/download) | [Prime-95](https://prime95.net/) | [SMU Debug Tool](https://github.com/irusanov/SMUDebugTool) (AMD Specific) </br>
 
 **RAM:** </br>
 [Zen Timings](https://zentimings.com/) | [Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [TM5](https://github.com/CoolCmd/TestMem5) | [Karhu](https://www.karhusoftware.com/ramtest/#introduction) </br>
