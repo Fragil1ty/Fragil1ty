@@ -18,7 +18,8 @@ I wont be hand holding, please use example settings (i.e. ram timings) with a gr
 **RAM:** </br>
 [Zen Timings](https://zentimings.com/) | [Y-Cruncher](https://github.com/Mysticial/y-cruncher) | [TM5](https://github.com/CoolCmd/TestMem5) | [Karhu](https://www.karhusoftware.com/ramtest/#introduction) </br>
 
-### Documentation
+### Walkthrough
+>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
