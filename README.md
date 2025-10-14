@@ -6,8 +6,8 @@
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
 
 ## Timings
-[6000 CL26:2133](https://ibb.co/5gMrXQ8L)
-[6000 CL28:2200](https://ibb.co/twspYcK8)
+[6000 CL26:2133](https://ibb.co/5gMrXQ8L) </br>
+[6000 CL28:2200](https://ibb.co/twspYcK8) </br>
 
 
 <!--
