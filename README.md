@@ -10,6 +10,8 @@
 [6000 CL28:2200](https://ibb.co/twspYcK8) </br>
 [6200 CL28:2133](https://ibb.co/BXWzWQ0) </br>
 
+>These are timings I fluctuate between using. IMC and Kit specific but feel free to use them as a starting point.
+
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
