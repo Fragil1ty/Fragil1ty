@@ -6,6 +6,7 @@
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
 
 ## Timings
+[6000 CL26](https://ibb.co/5gMrXQ8L)
 
 
 <!--
