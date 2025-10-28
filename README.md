@@ -1,4 +1,4 @@
-![header screenshot](https://i.ibb.co/23rBCHrz/first-ever-sff-itx-build-ncase-m2-round-stealth-build-v0-a6tgnr32g1he1.jpg)
+![header screenshot]([https://i.ibb.co/23rBCHrz/first-ever-sff-itx-build-ncase-m2-round-stealth-build-v0-a6tgnr32g1he1.jpg](https://ibb.co/hRW5DW9Q))
 
 >Just a placeholder for my part recommendations/ram timings. questions, dm via: [Discord](https://discord.gg/GWmb5WmS) </br>
 
