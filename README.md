@@ -1,4 +1,4 @@
-![header](https://ibb.co/hRW5DW9Q.png)
+![header](https://i.ibb.co/gMT1zT9q/IMG-3363.jpg)
 
 >Just a placeholder for my part recommendations/ram timings. questions, dm via: [Discord](https://discord.gg/GWmb5WmS) </br>
 
