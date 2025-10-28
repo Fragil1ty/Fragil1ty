@@ -1,4 +1,4 @@
-[https://ibb.co/hRW5DW9Q](https://ibb.co/hRW5DW9Q)
+![header](https://ibb.co/hRW5DW9Q)
 
 >Just a placeholder for my part recommendations/ram timings. questions, dm via: [Discord](https://discord.gg/GWmb5WmS) </br>
 
