@@ -10,7 +10,7 @@
 [6000 CL28:2200](https://ibb.co/zWX9VV5p) </br>
 [6200 CL28:2133](https://ibb.co/BXWzWQ0) </br>
 
->These are timings I fluctuate between using. IMC and kit specific but feel free to use them as a starting point.
+>These are timings I fluctuate between using, I'm currently dailying 6000:2200. IMC and kit specific but feel free to use them as a starting point.
 
 
 <!--
