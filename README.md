@@ -1,6 +1,6 @@
-![header](https://i.ibb.co/gMT1zT9q/IMG-3363.jpg)
 
->Just a placeholder for my part recommendations/ram timings. questions, dm via: [Discord](https://discord.gg/GWmb5WmS) </br>
+
+>Just a placeholder for my part recommendations/ram timings. questions, dm via: Discord (username: <u>fragil1ty</u>). </br>
 
 ## Links
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
