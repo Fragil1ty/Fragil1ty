@@ -12,6 +12,9 @@
 
 >These are timings I fluctuate between using, I'm currently dailying 6000:2200. IMC and kit specific but feel free to use them as a starting point.
 
+## Best BIOS settings - AMD Specific
+
+>So I'm getting a little sick and tired of "optimisers" putting out bad information on what the "best" bios settings are, I'm here to clear up what the ACTUAL best settings are. Please see screenshots below.
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
