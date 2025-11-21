@@ -10,11 +10,11 @@ Just a placeholder for my part recommendations/ram timings. questions, dm via: D
 [6000 CL28:2200](https://ibb.co/zWX9VV5p) </br>
 [6200 CL28:2133](https://ibb.co/BXWzWQ0) </br>
 
->These are timings I fluctuate between using, I'm currently dailying 6000:2200. IMC and kit specific but feel free to use them as a starting point.
+These are timings I fluctuate between using, I'm currently dailying 6000:2200. IMC and kit specific but feel free to use them as a starting point.
 
 ## Best BIOS settings - AMD (AM5)
 
->There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
+There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
 
 <!--
 **Fragil1ty/Fragil1ty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
