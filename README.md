@@ -1,6 +1,6 @@
 
 
-Just a placeholder for my part recommendations/ram timings. Any questions? I'm usually around on [Twitter](https://x.com/Fragil1ty) </br>
+Just a placeholder for my part recommendations/ram timings. Any questions? I'm usually around on [Twitter](https://x.com/Fragil1ty). </br>
 
 ## Links
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
