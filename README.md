@@ -7,11 +7,11 @@ Just a placeholder for my part recommendations/ram timings. questions, dm via: D
 
 ## Timings
 [6000 CL26:2133](https://ibb.co/5gMrXQ8L) </br>
+[6000 CL28:2167](https://ibb.co/q3691R1B) </br>
 [6000 CL28:2200](https://ibb.co/zWX9VV5p) </br>
 [6200 CL28:2133](https://ibb.co/BXWzWQ0) </br>
 
-These are timings I fluctuate between using, I'm currently dailying 6000:2200. IMC and kit specific but feel free to use them as a starting point.
-As of <u>21/11/25</u>, I've now reverted back to these timings: https://ibb.co/q3691R1B. No performance loss vs 2200 and it just "feels" more stable. So again, it's just about finding your own sweetspot but please use my timings listed here as a reference point to see what works for you.
+These are timings I fluctuate between using, I'm currently using 6000 CL28:2167. It's just about finding your sweet spot, so find out what works for you, what your sweetspots are and then just go from there.
 
 ## Best BIOS settings - AMD (AM5)
 
