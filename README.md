@@ -1,6 +1,6 @@
 
 
-Just a placeholder for my part recommendations/ram timings. questions, dm via: Discord (username: <u>fragil1ty</u>). </br>
+Just a placeholder for my part recommendations/ram timings. questions, dm via: Discord (username: <u>fragil1ty</u>) or via: [Twitter](https://x.com/Fragil1ty) </br>
 
 ## Links
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
