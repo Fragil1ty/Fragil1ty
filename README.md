@@ -31,6 +31,9 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 I used to be all for custom Powerplans but nowadays, there isn't much point. But if you need to install a custom Powerplan for AMD/X3D, refer to the following: https://github.com/Fragil1ty/Fragil1ty/blob/main/amd.pow
 <br><br>But in reality, Ultimate Performance (which comes pre-installed with Windows) is more than adequate. 
 
+**Autoruns:** unhide Windows services (more can be disabled but these are the ones I find safe to disable, even though my NTLite preset and .bat scripts disable all of the unndeeded ones)
+
+
 ## Best BIOS settings - AMD (AM5)
 
 There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
