@@ -51,10 +51,10 @@ For your storage device under Disk drives, turn off write caching by going into 
 There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
 
 ## Best NVIDIA Control Panel Settings
-[1](https://ibb.co/ZpmZrdWC) </br>
-[2](https://ibb.co/nMrq7LgP) </br>
-[3](https://ibb.co/4Rp040Kx) </br>
-[4](https://ibb.co/WND66RTK) </br>
+[1](https://ibb.co/ZpmZrdWC) 
+[2](https://ibb.co/nMrq7LgP) 
+[3](https://ibb.co/4Rp040Kx) 
+[4](https://ibb.co/WND66RTK) 
 
 If you would like to automate this process, then you can download my .nip profile [here](https://github.com/Fragil1ty/Fragil1ty/blob/main/FRAGOS2.nip). Simply head to: (https://github.com/Orbmu2k/nvidiaProfileInspector/releases) > download the latest release > unzip > NVPI > import user defined profiles > apply changes and you're done.
 
