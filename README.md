@@ -1,6 +1,7 @@
 
+## Windows tweaks, settings, timings and optimisations to use.
 
-Just a placeholder for my part recommendations/ram timings. Any questions? I'm usually around on [Twitter](https://x.com/Fragil1ty). </br>
+[Twitter](https://x.com/fragilitytweaks). </br>
 
 ## Links
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
