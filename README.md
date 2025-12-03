@@ -4,7 +4,7 @@
 So this guide overs "advanced" PC optimisation settings that 'should' be commonly known. This guide aims to cover everything that you would get out of a normal optimisation appointment so that a.) It's going to save you time and money and b.) You're educating yourself to hopefully further pass on this knowledge. If everyone knows this stuff (which can be learnt in a 1-2 week period) then you don't have to trust someone else to do it for you.
 
 
-## Links
+## Build/part recommendations?
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
 
 ## Timings
