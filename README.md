@@ -23,7 +23,7 @@ There is a lot of misinformation circuluating the internet on what the "best" BI
 [3](https://ibb.co/4Rp040Kx) </br>
 [4](https://ibb.co/WND66RTK) </br>
 
-If you would like to automate this process, then you can download my .nip profile [here](https://github.com/Fragil1ty/Fragil1ty/blob/main/FRAGOS2.nip). Simply head to: (https://github.com/Orbmu2k/nvidiaProfileInspector/releases) > download the latest release > unzip > NVPI > import user define profiles > apply changes and you're done.
+If you would like to automate this process, then you can download my .nip profile [here](https://github.com/Fragil1ty/Fragil1ty/blob/main/FRAGOS2.nip). Simply head to: (https://github.com/Orbmu2k/nvidiaProfileInspector/releases) > download the latest release > unzip > NVPI > import user defined profiles > apply changes and you're done.
 
 ## Twitter
 [https://x.com/fragilitytweaks](https://x.com/fragilitytweaks)</br>
