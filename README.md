@@ -26,7 +26,7 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 
 * Disable audio enhancements in the Sound control panel. Useless and doesn't offer any benefits. Just set to 2-channel, 24-bit 48hz and away you go.
 
-*Power plans?*
+**Power plans?**
 
 ## Best BIOS settings - AMD (AM5)
 
