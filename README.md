@@ -1,5 +1,5 @@
 
-## Windows tweaks, settings, timings and optimisations to use.
+## Fragility's tweaks, settings & more.
 
 
 ## Links
