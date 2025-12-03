@@ -14,9 +14,19 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 
 * Linux? Still not an option in 2025. If you're on a full AMD system and you are really fed up of the direct that Microsoft is heading towards i.e. heavy AI integration, heavy telemetary and tracking based o/s? then sure, you could switch to Linux but you'll be FAFO'ing around a lot more than you would on Windows. Furthermore, you'll have to sacrifice playing some, if not all anti-cheat based games such as League, Valorant, BF6 and more. Not to mention if you're an NVIDIA user, a high-end NVIDIA user (5070Ti -> 5090) you're going to be looking at horrendous peformance vs using that GPU on Windows due to driver limitations. It's not worth the effort. Unless you have a very specific use-case for Linux? I wouldn't bother.
 
-* Windows 10 still viable in 2025? Personally, I don't believe so. Everyone that I know who was a hardcore Windows 10 main has now converted and made the switch to Windows 11. There are a lot of negatives where W11 is concerned but most if not all can be rectified with tweaks and/or adjustments. But if you're switching to Windows 11, my recommendation is W11 - 24H2 - LTSC, it's less bloat-heavy, more stripped and just a better version of Windows, kind of how it was meant to  be shipped.
+* Windows 10 still viable in 2025? Personally, I don't believe so. Everyone that I know who was a hardcore Windows 10 main has now converted and made the switch to Windows 11. There are a lot of negatives where W11 is concerned but most if not all can be rectified with tweaks and/or adjustments. But if you're switching to Windows 11, my recommendation is W11 - 24H2 LTSC, it's less bloat-heavy, more stripped and just a better version of Windows, kind of how it was meant to  be shipped.
 
 * Windows 10 is more resilient when it comes to tweaks and it can be stripped down to its bones without sacrificing functionality, while Windows 11 needs UWP app support, StateRepository, DWM and many other things running to ensure nothing breaks.
+
+## Windows Tweaks
+
+* Firstly, install whatever version of Windows you prefer, as I stated above, I would recommend a fresh install of W11 - 24H2 LTSC. This is what I have been dailying for a long time and 'feels' the best out of all other operating systems tested, custom or stock. I would stay away from Custom ISO's in 2025 as it's been proven by Freethy (https://github.com/FR33THYFR33THY/Debunking-Custom-ISOS-And-Windows-Optimizations) that there is no major differences (from a performance point of view) between any of them, so do yourself a favour and just avoid the hassle.
+
+* Install Windows without an internet connection to ensure that all of the update services and automatic updates have been disabled. Make sure to pause Windows updates, make sure to install your GPU drivers and Chipset drivers before enabling Internet access.
+
+* Disable audio enhancements in the Sound control panel. Useless and doesn't offer any benefits. Just set to 2-channel, 24-bit 48hz and away you go.
+
+*Power plans?*
 
 ## Best BIOS settings - AMD (AM5)
 
