@@ -8,7 +8,7 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
 
 ## Timings
-[Current Timings]([https://ibb.co/JRhHkLVf]) </br>
+[Current Timings](https://ibb.co/JRhHkLVf) </br>
 
 These are timings I fluctuate between using, I'm currently using 6000 CL28:2167. It's just about finding your sweet spot, so find out what works for you, what your sweetspots are and then just go from there.
 
