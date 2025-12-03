@@ -10,8 +10,6 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 ## Timings
 [Current Timings](https://ibb.co/JRhHkLVf) </br>
 
-This is what I'm using at the moment. RAM timings are highly contingent on your kit, your IMC and how much time you have to put into getting it stable. If you want something that just works? Lock in XMP on a X3D chip and call it a day but if you want something that's a little bit more finely tuned then that's where a little bit of research and patience come into play.
-
 ## Best BIOS settings - AMD (AM5)
 
 There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
