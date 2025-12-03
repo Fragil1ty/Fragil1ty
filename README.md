@@ -28,6 +28,10 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 
 **Power plans?**
 
+I used to be all for custom Powerplans but nowadays, there isn't much point. But if you need to install a custom Powerplan for AMD/X3D, refer to the following:
+* 
+But in reality, Ultimate Performance (which comes pre-installed with Windows) is more than adequate. 
+
 ## Best BIOS settings - AMD (AM5)
 
 There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
