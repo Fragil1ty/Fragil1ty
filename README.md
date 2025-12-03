@@ -35,6 +35,9 @@ I used to be all for custom Powerplans but nowadays, there isn't much point. But
 
 * services: disable Appinfo, ApMgmt, AppReadiness AppXSvc, ApxSvc, BITS, Bluetooth related, CDP services, ClipSVC, CredentialEnrollment services, DeviceFlow services, KeyIso, PlugPlay, sppsvc StorSvc, UDK related, WMI, Wpn services
 * drivers: disable amd related (if not needed for AMD), AppleSSD, Bluetooth related, HidBatt, HidBth, i8042prt, Microsoft_Bluetooth, RFCOMM, swenum, WacomPen
+* Device Manager: View -> Devices by type
+For your storage device under Disk drives, turn off write caching by going into Properties -> Policies
+
 
 
 ## Best BIOS settings - AMD (AM5)
