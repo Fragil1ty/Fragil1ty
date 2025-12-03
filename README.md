@@ -42,7 +42,7 @@ For your storage device under Disk drives, turn off write caching by going into 
 
 1. Install updates > Install drivers > Install chipset > Pause updates
 2. Use installation scripts from the likes of Fr33thy (https://github.com/FR33THYFR33THY) and follow the step-by-step for his Ultimate Windows Optimisation guide. It's simple, it's effective and it's idiot-proof (kind of).
-3. Apply any further tweaks that you deem acceptable i.e. custom powerplans, hosts blocking (asus/razer), telemetary removal, edge removal etc.
+3. Apply any further tweaks that you deem acceptable i.e. custom powerplans, hosts blocking (asus/razer), telemetary removal etc.
 4. Apply your GPU tweaks (see below for recommended settings/.NIP profile)
 5. Profit.
 
