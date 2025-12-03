@@ -1,6 +1,8 @@
 
 ## Fragility's tweaks, settings & more.
 
+So this guide overs "advanced" PC optimisation settings that 'should' be commonly known. This guide aims to cover everything that you would get out of a normal optimisation appointment so that a.) It's going to save you time and money and b.) You're going to educate yourself whilst doing so.
+
 
 ## Links
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
