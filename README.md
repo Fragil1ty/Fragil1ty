@@ -46,6 +46,10 @@ For your storage device under Disk drives, turn off write caching by going into 
 4. Apply your GPU tweaks (see below for recommended settings/.NIP profile)
 5. Profit.
 
+**Bonus**
+
+6. One thing that I always do these days is remove Windows Defender, I just don't like using it or having it on my computer, it feels invasive and as we all know. The best Antivirus is common sense, so what to do about it? Well there are scripts in both Fr33thys advanced folder or for a more streamlined and easier method, you can always refer to Zoicware's Defender Pro tools as seen here: https://github.com/zoicware/DefenderProTools
+
 ## Best BIOS settings - AMD (AM5)
 
 There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
