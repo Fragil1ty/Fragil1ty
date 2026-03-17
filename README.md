@@ -7,7 +7,7 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 [Build Recommendations](https://uk.pcpartpicker.com/user/Fragil1ty/saved/)
 
 ## Timings
-[Current Timings](https://ibb.co/JRhHkLVf) </br>
+[Current Timings](https://ibb.co/PGStyy0L) </br>
 
 ## Operating System
 
