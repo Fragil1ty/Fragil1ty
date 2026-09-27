@@ -49,7 +49,7 @@ For your storage device under Disk drives, turn off write caching by going into 
 
 There is a lot of misinformation circulating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
 
-<coming soon. tm>
+/coming soon. 
 
 ## Best NVIDIA Control Panel Settings
 [1](https://ibb.co/ZpmZrdWC) 
