@@ -17,9 +17,9 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 
 * Firstly, install whatever version of Windows you prefer, as I stated above, I would recommend a fresh install of W11 - 25H2 Home or Professional as this is what has proven to be the more reliable for me personally. If you want to streamline the process and use a custom OS which I will always be in favour of, providing stability is at the forefront of the .iso or .pbx project, then I would definitely use one of the following: FSOS, CactusOS or SynergyOS.
 
-* Install Windows without an internet connection to ensure that all of the update services and automatic updates have been disabled. Make sure to pause Windows updates, make sure to install your GPU drivers and Chipset drivers before enabling Internet access.
+* Use an autounattend file to automate as much of the installation process as possible, if you don't know what an autounattend file is? Google is your best friend but there are many out there and they provide a much easier and streamlined experience to the reinstallation process. 
 
-* Disable audio enhancements in the Sound control panel. Useless and doesn't offer any benefits. Just set to 2-channel, 24-bit 48hz and away you go.
+* Disable Defender (common sense is your best anti-virus), disable audio enhancements in the sound control panel, I personally dislike anything interfering with my audio experience I consider the toggle to be useless and lacking benefits. Best bet is to just set to 2-channel, 24-bit 48khz and away you go.
 
 **Power plans?**
 
