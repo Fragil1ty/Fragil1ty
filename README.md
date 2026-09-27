@@ -35,7 +35,7 @@ For your storage device under Disk drives, turn off write caching by going into 
 
 **Typical post installation process?**
 
-1. Install updates > Install drivers > Install chipset > Pause updates
+1. Install updates > Install drivers > Install chipset (if you wanted, not really needed on single CCD chips, such as 78x3d/98x3d, etc) > Pause updates
 2. Use installation/post-install scripts of your own choosing. [Zoicware](http://github.com/zoicware) is a fantastic place to start or if you would rather install a custom, pre-tuned/debloated operating system? Then refer to the above statement made earlier.
 3. Apply any further tweaks that you deem acceptable i.e. custom powerplans, hosts blocking (asus/razer), telemetry removal etc.
 4. Apply your GPU tweaks (see below for recommended settings/.NIP profile)
