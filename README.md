@@ -23,10 +23,10 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 
 **Power plans?**
 
-I used to be all for custom Powerplans but nowadays, there isn't much point. But if you need to install a custom Powerplan for AMD/X3D, refer to the following: https://github.com/Fragil1ty/Fragil1ty/blob/main/amd.pow
+I used to be all for custom Power plans but nowadays, there isn't much point. But if you need to install a custom Power plan for AMD/X3D, refer to the following: https://github.com/Fragil1ty/Fragil1ty/blob/main/amd.pow
 <br><br>But in reality, Ultimate Performance (which comes pre-installed with Windows) is more than adequate. 
 
-**Autoruns:** unhide Windows services (more can be disabled but these are the ones I find safe to disable, even though my NTLite preset and .bat scripts disable all of the unndeeded ones)
+**Autoruns:** unhide Windows services (more can be disabled but these are the ones I find safe to disable, even though my NTLite preset and .bat scripts disable all of the unneeded ones)
 
 * **Services**: disable Appinfo, ApMgmt, AppReadiness AppXSvc, ApxSvc, BITS, Bluetooth related, CDP services, ClipSVC, CredentialEnrollment services, DeviceFlow services, KeyIso, PlugPlay, sppsvc StorSvc, UDK related, WMI, Wpn services
 * **Drivers**: disable amd related (if not needed for AMD), AppleSSD, Bluetooth related, HidBatt, HidBth, i8042prt, Microsoft_Bluetooth, RFCOMM, swenum, WacomPen
@@ -36,8 +36,8 @@ For your storage device under Disk drives, turn off write caching by going into 
 **Typical post installation process?**
 
 1. Install updates > Install drivers > Install chipset > Pause updates
-2. Use installation/post-install scripts of your own choosing. [Zoicware](http://github.com/zoicware) is a fantastic place to start or if you would rather install a custom, pre-tuned/deblaoated operating system? Then refer to the above statement made earlier.
-3. Apply any further tweaks that you deem acceptable i.e. custom powerplans, hosts blocking (asus/razer), telemetary removal etc.
+2. Use installation/post-install scripts of your own choosing. [Zoicware](http://github.com/zoicware) is a fantastic place to start or if you would rather install a custom, pre-tuned/debloated operating system? Then refer to the above statement made earlier.
+3. Apply any further tweaks that you deem acceptable i.e. custom powerplans, hosts blocking (asus/razer), telemetry removal etc.
 4. Apply your GPU tweaks (see below for recommended settings/.NIP profile)
 5. Profit.
 
@@ -47,7 +47,9 @@ For your storage device under Disk drives, turn off write caching by going into 
 
 ## Best BIOS settings - AMD (AM5)
 
-There is a lot of misinformation circuluating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
+There is a lot of misinformation circulating the internet on what the "best" BIOS settings are for AMD. I'm here to clear up what the best settings actually are. Refer to the screenshots below. 
+
+<coming soon. tm>
 
 ## Best NVIDIA Control Panel Settings
 [1](https://ibb.co/ZpmZrdWC) 
