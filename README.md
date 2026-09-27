@@ -36,7 +36,7 @@ For your storage device under Disk drives, turn off write caching by going into 
 **Typical post installation process?**
 
 1. Install updates > Install drivers > Install chipset > Pause updates
-2. Use installation scripts from the likes of Fr33thy (https://github.com/FR33THYFR33THY) and follow the step-by-step for his Ultimate Windows Optimisation guide. It's simple, it's effective and it's idiot-proof (kind of).
+2. Use installation/post-install scripts of your own choosing. [Zoicware](http://github.com/zoicware) is a fantastic place to start or if you would rather install a custom, pre-tuned/deblaoated operating system? Then refer to the above statement made earlier.
 3. Apply any further tweaks that you deem acceptable i.e. custom powerplans, hosts blocking (asus/razer), telemetary removal etc.
 4. Apply your GPU tweaks (see below for recommended settings/.NIP profile)
 5. Profit.
