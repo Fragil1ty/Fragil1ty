@@ -15,7 +15,7 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 
 ## Windows Tweaks
 
-* Firstly, install whatever version of Windows you prefer, as I stated above, I would recommend a fresh install of W11 - 25H2 Home or Professional & if you want to streamline the process and use a custom OS which I will always be in favour of, then there are a lot of options available to you from many different creators. Personally, there are only a few that I trust and one's that I would recommend to friends/optimisers are the following: [Cactus OS](https://discord.gg/fzPZpEh9rK, [FSOS](https://fsosx.com/) & [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS).
+* Firstly, install whatever version of Windows you prefer, as I stated above, I would recommend a fresh install of W11 - 25H2 Home or Professional & if you want to streamline the process and use a custom OS which I will always be in favour of, then there are a lot of options available to you from many different creators. Personally, there are only a few that I trust and one's that I would recommend to friends/optimisers are the following: [Cactus OS](https://discord.gg/fzPZpEh9rK), [FSOS](https://fsosx.com/) & [SynergyOS](https://github.com/Synergy-Tweaks/SynergyOS).
 
 * Use an autounattend file to automate as much of the installation process as possible, if you don't know what an autounattend file is? Google is your best friend but there are many out there and they provide a much easier and streamlined experience to the reinstallation process. 
 
