@@ -15,7 +15,7 @@ So this guide overs "advanced" PC optimisation settings that 'should' be commonl
 
 ## Windows Tweaks
 
-* Firstly, install whatever version of Windows you prefer, as I stated above, I would recommend a fresh install of W11 - 25H2 Home or Professional as this is what has proven to be the more reliable for me personally. If you want to streamline the process and use a custom OS which I will always be in favour of, providing stability is at the forefront of the .iso or .pbx project, then I would definitely use one of the following: FSOS, CactusOS or SynergyOS.
+* Firstly, install whatever version of Windows you prefer, as I stated above, I would recommend a fresh install of W11 - 25H2 Home or Professional as this is what has proven to be the more reliable for me personally. If you want to streamline the process and use a custom OS which I will always be in favour of, providing stability is at the forefront of the .iso or .apbx (thank you [kwanteks](https://github.com/kwanteks) project, then I would definitely use one of the following: FSOS, CactusOS or SynergyOS.
 
 * Use an autounattend file to automate as much of the installation process as possible, if you don't know what an autounattend file is? Google is your best friend but there are many out there and they provide a much easier and streamlined experience to the reinstallation process. 
 
